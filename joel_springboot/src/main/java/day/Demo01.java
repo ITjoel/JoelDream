@@ -8,4 +8,8 @@ package day;
  * @Copyright © 2019-2020 小强股份有限公司
  */
 public class Demo01 {
+
+    public void test1(){
+
+    }
 }
