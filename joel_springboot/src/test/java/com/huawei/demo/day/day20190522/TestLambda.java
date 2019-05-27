@@ -1,4 +1,4 @@
-package day.day20190522;
+package com.huawei.demo.day.day20190522;
 
 
 import org.junit.Test;
