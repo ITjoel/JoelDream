@@ -1,6 +1,6 @@
-package com.huawei.demo;
+package com.huawei.demo.demo;
 
-import com.huawei.demo.day.day20190522.Employee;
+import com.huawei.demo.demo.day.day20190522.Employee;
 import org.junit.Test;
 
 import java.util.ArrayList;
